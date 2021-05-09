@@ -1,0 +1,11 @@
+.layout {
+    padding-right: 30px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}

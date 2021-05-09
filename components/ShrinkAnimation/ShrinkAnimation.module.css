@@ -1,0 +1,9 @@
+.background {
+    position: absolute;
+    z-index: 50;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: pink;
+}

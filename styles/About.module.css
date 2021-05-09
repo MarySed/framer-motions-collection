@@ -1,0 +1,19 @@
+.title {
+    font-weight: 800;
+    margin: 32px;
+    line-height: 1.2;
+    font-size: clamp(2.5rem, 3.2vw + 2rem, 4rem);
+    min-height: 0vh;
+    text-align: center;
+    text-transform: lowercase;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    background: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(201 42 217) 43%, rgb(0 169 255) 100%);
+    background-clip: text;
+}
+
+.description {
+    font-size: 22px;
+    max-width: 600px;
+    text-align: center;
+}
