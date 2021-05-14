@@ -1,6 +1,7 @@
 # About
 
 Wanted to mess around with page transitions and text animations using [Framer Motion](https://www.framer.com/api/motion/).
+Might update at some point with more.
 
 
 ## How To:
